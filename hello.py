@@ -1,5 +1,5 @@
 print("hello world!")
 
-print("cat")
+print("cat")xx
 
 print("blood")
