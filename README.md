@@ -1,2 +1,2 @@
 # Backprop_Bunch
-MLX Backprop_Brunch Team 
+MLX Backprop_Brunch Team
